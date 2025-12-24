@@ -100,7 +100,7 @@ export default function Hero() {
               <div className="relative w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-8 border-white dark:border-gray-800 shadow-2xl transform hover:scale-105 transition-all duration-500">
                 <img
                   src="public/profile.jpg.jpg"
-                  alt="Hayaththu Mohammathu Abdullah"
+                
                   className="w-full h-full object-cover"
                 />
               </div>
