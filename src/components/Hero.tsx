@@ -100,8 +100,7 @@ export default function Hero() {
               <div className="relative w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-8 border-white dark:border-gray-800 shadow-2xl transform hover:scale-105 transition-all duration-500">
                 <img
                   src="profile.jpg"
-                
-                  className="w-full h-full object-cover"
+                className="w-full h-full object-cover"
                 />
               </div>
               <div className="absolute -bottom-4 -right-4 w-32 h-32 bg-gradient-to-r from-blue-600 to-cyan-600 rounded-full flex items-center justify-center text-white font-bold text-lg shadow-xl animate-bounce-slow">
